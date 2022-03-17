@@ -1,0 +1,2 @@
+# strapi.io
+strapi.io
